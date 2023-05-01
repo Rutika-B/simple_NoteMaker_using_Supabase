@@ -1,0 +1,3 @@
+var URL = 'https://tiiobkyqcdgqzehfqldy.supabase.co';
+var key =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRpaW9ia3lxY2RncXplaGZxbGR5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODI4NTY5MDAsImV4cCI6MTk5ODQzMjkwMH0.JsvrzwCGkgDtGy1laABDKdiS1Z_vuWGjxLlZ00w12tQ';
